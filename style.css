@@ -1,0 +1,183 @@
+
+.bg{
+    background-image: url("/banner/banner1.png");
+    
+    background-repeat: no-repeat;
+    width: 1600px;
+    height: 800px;
+    
+}
+.head-items{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    text-align: right;
+    margin-right: 230px;
+    padding-top: 150px;
+    
+}
+.head-title{
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 65px;
+    width: 525px;
+    height: 228px;
+}
+.head-des{
+    font-weight: 400;
+    font-size: 16px;
+    width: 494px;
+    height: 78px;
+}
+.head-btn{
+    width: 160px;
+    height: 64px;
+    background-color: #f15b22;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    font-weight: 600;
+    font-size: 20px; 
+}
+/* My failures of
+previous year */
+.fail-container{
+    display: flex;
+    
+    margin-top: 200px;
+}
+.fail-para{
+    margin-left: 400px;
+    margin-top: 150px;
+    margin-right: 400px;
+    text-align: left;
+}
+.fail-title{
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    width: 288px;
+    height: 94px;
+}
+.fail-des{
+    font-weight: 400;
+    font-size: 16px;
+    width: 416px;
+    height: 104px;
+}
+/* my plans */
+.plan-container{
+    width: 1600px;
+    height: 400px;
+}
+.plan-title{
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+    margin-right: 300px;
+}
+.my-plan{
+    margin: 0 300px;
+    display: flex;
+    justify-content: space-between;
+}
+.plan-subtitle{
+    font-weight: 700;
+    font-size: 30px;
+}
+.plan-des{
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+}
+.gradient{
+    background-image: url('gradient2.png'),url('watch.png');
+    background-repeat: no-repeat;
+    width: 1200px;
+    height: 300px;
+    margin: auto;
+}
+.gra-text{
+    font-weight: 700;
+    font-size: 40px;
+    color: white;
+    width: 459px;
+    height: 94px;
+    margin-left: 60px;
+    padding-top: 60px;
+}
+.gra-btn{
+    width: 160px;
+    height: 64px;
+    background-color: #fafafa;
+    border-radius: 5px;
+    color: #f15b22;
+    border: none;
+    font-weight: 600;
+    font-size: 20px; 
+    margin-left: 60px;
+}
+.footer{
+    width: 1600px;
+    height: 577px;
+    background: #151414;
+    display: flex;
+    justify-content: space-around;
+}
+.ftr-left{
+    margin-top: 100px;
+}
+.footer-head-left{
+    font-weight: 700;
+    font-size: 45px;
+    color: #f8f8f8;
+    font-family: sans-serif;
+}
+.footer-para{
+    font-weight: 400;
+    font-size: 16px;
+    color: #ffffff;
+    width: 485px;
+    height: 78px;
+}
+.footer-email{
+    font-weight: 400;
+    font-size: 16px;
+    color: #ffffff;
+}
+.footer-phone{
+    font-weight: 400;
+    font-size: 16px;
+    color: #ffffff;
+}
+.ftr-right{
+    margin-top: 100px;
+}
+.footer-list{
+    list-style: none;
+    
+}
+.footer-subs{
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+    color: #ffffff;
+}
+.email-right{
+    width: 325px;
+    height: 64px;
+    border-radius: 8px;
+    background: none;
+}
+.footer-btn{
+    width: 160px;
+    height: 64px;
+    background-color: #fafafa;
+    border-radius: 5px;
+    color: #f15b22;
+    border: none;
+    font-weight: 600;
+    font-size: 20px; 
+    margin-top: 20px;
+    
+}
